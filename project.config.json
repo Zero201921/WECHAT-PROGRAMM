@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "cable-app-pro-updated",
+  "setting": {
+    "urlCheck": false,
+    "minified": true
+  },
+  "appid": "wx2e4a1f5e8807ddee"
+}

@@ -1,0 +1,4 @@
+/** 全局样式 **/
+body, view {
+  font-family: Arial, sans-serif;
+}

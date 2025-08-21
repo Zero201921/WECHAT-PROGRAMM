@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/filterPage/filterPage",
+    "pages/calculation/calculation",
+    "pages/notes/notes"
+  ],
+  "window": {
+    "navigationBarTitleText": "电缆选型助手",
+    "navigationBarBackgroundColor": "#1e90ff",
+    "navigationBarTextStyle": "white"
+  }
+}
+
+
